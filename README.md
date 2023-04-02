@@ -7,7 +7,7 @@ Application's Engineer
 Hello, I am an enthusiastic and detail-oriented Application Engineer with 2.6 years of experience in the software development industry. My expertise lies in designing, developing and implementing complex software solutions that meet the requirements of clients. I have hands-on experience in software development life cycle and have a strong understanding of different programming languages such as JavaScript and TypeScript. I am passionate about delivering high-quality and innovative software solutions to clients and am constantly seeking opportunities to expand my technical knowledge and skills.
 
 * 🌍  I'm based in Nairobi
-* 🖥️  See my portfolio at [https://portfolio-18296.web.app/](http://https://portfolio-18296.web.app/)
+* 🖥️  See my portfolio at [https://portfolio-18296.web.app](http://https://portfolio-18296.web.app)
 * ✉️  You can contact me at [deniskipyegon88@gmail.com](mailto:deniskipyegon88@gmail.com)
 * 🧠  I'm learning Nodejs, Express and MongoDB
 * 🤝  I'm open to collaborating on React Native Projects
