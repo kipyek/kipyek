@@ -9,7 +9,7 @@ Hello, I am an enthusiastic and detail-oriented Application Engineer with 2.6 ye
 * 🌍  I'm based in Nairobi
 * 🖥️  See my portfolio at [https://portfolio-18296.web.app/](https://portfolio-18296.web.app/)
 * ✉️  You can contact me at [deniskipyegon88@gmail.com](mailto:deniskipyegon88@gmail.com)
-* 🧠  I'm learning Nodejs, Express and MongoDB
+* 🧠  I'm learning Kotlin
 * 🤝  I'm open to collaborating on React Native Projects
 
 ### Skills
